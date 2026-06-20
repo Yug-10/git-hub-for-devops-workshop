@@ -1,0 +1,8 @@
+-clear
+-git add.
+-git status
+-git commit -m "add testing files"
+-rmm testing.py
+-ls
+-git restore testing.py
+-
